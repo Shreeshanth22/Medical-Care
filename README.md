@@ -1,6 +1,6 @@
 # 🏥 Medical Care - Hospital Management System (MERN Stack)
 
-![Hospital Management](https://github.com/Shreeshanth22/Medical-Care/blob/main/preview.png)
+![Hospital Management](https://raw.githubusercontent.com/Shreeshanth22/Medical-Care/main/preview.png)
 
 The project involves the creation of a hospital management system using the **MERN stack (MongoDB, Express.js, React, Node.js)**.  
 It provides **Admin, Doctor, and Patient** modules with features like **appointment booking, doctor management, authentication, and dashboards**.
@@ -58,6 +58,14 @@ To get a local copy of the project, run the following command in your terminal:
 
 ```bash
 git clone https://github.com/Shreeshanth22/Medical-Care.git
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/Shreeshanth22/Medical-Care/issues).  
 
 ---
 
